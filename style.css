@@ -1,0 +1,41 @@
+body {
+  background-color: #e4e978
+}
+h1 {
+  padding: 5%;
+  text-align: center;
+  color: 	#120078
+
+}
+
+.PAYPAL {
+  padding: 5%;
+}
+.securtyform {
+  text-align: center;
+}
+.myButton {
+	box-shadow: 0px 0px 0px 2px #9fb4f2;
+	background-color:#2d6bd6;
+	border-radius:10px;
+	border:1px solid #003df5;
+	display:inline-block;
+	cursor:pointer;
+	color:#000000;
+	font-family:Arial;
+	font-size:20px;
+	font-weight:bold;
+	padding:14px 37px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #283966;
+}
+.myButton:hover {
+	background-color:#476e9e;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+.sumbit{
+  padding-bottom: 5%;
+}
